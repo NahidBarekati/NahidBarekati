@@ -1,0 +1,114 @@
+<svg width="1400" height="620" viewBox="0 0 1400 620" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="620" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#07101F"/>
+      <stop offset="0.5" stop-color="#081527"/>
+      <stop offset="1" stop-color="#0B1020"/>
+    </linearGradient>
+    <linearGradient id="glassStroke" x1="200" y1="40" x2="1200" y2="500" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#97A7FF" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#8E5CFF" stop-opacity="0.35"/>
+    </linearGradient>
+    <linearGradient id="heroGlow" x1="260" y1="80" x2="1180" y2="430" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#172A5A" stop-opacity="0.35"/>
+      <stop offset="0.55" stop-color="#2B2D73" stop-opacity="0.26"/>
+      <stop offset="1" stop-color="#734DFF" stop-opacity="0.22"/>
+    </linearGradient>
+    <linearGradient id="pillStroke" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#A3B3FF" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#7D5CFF" stop-opacity="0.35"/>
+    </linearGradient>
+    <filter id="blurXL" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="42"/>
+    </filter>
+    <filter id="blurMD" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="20"/>
+    </filter>
+    <filter id="glass" x="190" y="32" width="1020" height="490" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur in="BackgroundImageFix" stdDeviation="10"/>
+      <feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur" result="shape"/>
+    </filter>
+  </defs>
+
+  <rect width="1400" height="620" fill="url(#bg)"/>
+
+  <g opacity="0.9">
+    <circle cx="1230" cy="125" r="125" fill="#6C4CFF" fill-opacity="0.26" filter="url(#blurXL)"/>
+    <circle cx="1060" cy="480" r="160" fill="#466CFF" fill-opacity="0.16" filter="url(#blurXL)"/>
+    <circle cx="240" cy="120" r="95" fill="#4A7BFF" fill-opacity="0.12" filter="url(#blurXL)"/>
+    <circle cx="275" cy="505" r="140" fill="#8D5BFF" fill-opacity="0.12" filter="url(#blurXL)"/>
+  </g>
+
+  <g opacity="0.75" fill="#EAF0FF">
+    <circle cx="124" cy="82" r="1.4"/><circle cx="191" cy="117" r="1.2"/><circle cx="294" cy="65" r="1.1"/><circle cx="396" cy="101" r="1.5"/>
+    <circle cx="521" cy="84" r="1.3"/><circle cx="582" cy="62" r="1.1"/><circle cx="666" cy="118" r="1.4"/><circle cx="764" cy="71" r="1.1"/>
+    <circle cx="888" cy="96" r="1.5"/><circle cx="969" cy="60" r="1.1"/><circle cx="1084" cy="92" r="1.2"/><circle cx="1181" cy="63" r="1.5"/>
+    <circle cx="1288" cy="107" r="1.3"/><circle cx="113" cy="207" r="1.1"/><circle cx="227" cy="240" r="1.2"/><circle cx="1168" cy="207" r="1.2"/>
+    <circle cx="1308" cy="225" r="1.4"/><circle cx="1021" cy="185" r="1.2"/><circle cx="332" cy="184" r="1.1"/><circle cx="78" cy="525" r="1.2"/>
+    <circle cx="1293" cy="530" r="1.3"/><circle cx="1175" cy="503" r="1.1"/><circle cx="974" cy="537" r="1.3"/><circle cx="237" cy="554" r="1.1"/>
+  </g>
+
+  <path d="M0 286C130 229 224 338 358 306C501 271 612 180 758 205C895 229 983 331 1119 318C1234 307 1309 249 1400 238V620H0V286Z" fill="#0A1424" fill-opacity="0.55"/>
+  <path d="M0 351C160 298 286 391 427 366C547 345 647 274 781 276C944 278 1014 378 1157 394C1260 405 1337 361 1400 333V620H0V351Z" fill="#07111F" fill-opacity="0.64"/>
+
+  <g filter="url(#glass)">
+    <rect x="200" y="44" width="1000" height="458" rx="34" fill="url(#heroGlow)" fill-opacity="0.88"/>
+    <rect x="200.75" y="44.75" width="998.5" height="456.5" rx="33.25" stroke="url(#glassStroke)" stroke-width="1.5"/>
+    <rect x="200" y="44" width="1000" height="458" rx="34" fill="white" fill-opacity="0.035"/>
+  </g>
+
+  <circle cx="1006" cy="172" r="170" fill="#8A5DFF" fill-opacity="0.22" filter="url(#blurXL)"/>
+  <circle cx="1105" cy="426" r="128" fill="#3567FF" fill-opacity="0.16" filter="url(#blurXL)"/>
+  <circle cx="362" cy="145" r="110" fill="#4F8FFF" fill-opacity="0.12" filter="url(#blurMD)"/>
+
+  <path d="M1163 76L1152 77.5L1156 88L1147 81L1138 88L1142 77.5L1131 76L1141.5 71L1138 60L1147 66.4L1156 60L1152.7 71L1163 76Z" fill="#FFFFFF" fill-opacity="0.75"/>
+  <circle cx="1119" cy="112" r="2.2" fill="#FFFFFF" fill-opacity="0.78"/>
+  <circle cx="1174" cy="142" r="1.6" fill="#FFFFFF" fill-opacity="0.7"/>
+  <circle cx="320" cy="116" r="1.8" fill="#CFE0FF" fill-opacity="0.75"/>
+  <circle cx="284" cy="145" r="1.4" fill="#FFFFFF" fill-opacity="0.66"/>
+
+  <text x="700" y="154" text-anchor="middle" fill="#FFFFFF" font-size="66" font-family="Segoe UI, Inter, Arial, sans-serif" font-weight="800">Hi, I’m Nahid Barekati 👋</text>
+  <text x="700" y="200" text-anchor="middle" fill="#9DB1FF" font-size="30" font-family="Segoe UI, Inter, Arial, sans-serif" font-weight="700">Senior Backend Developer</text>
+
+  <foreignObject x="294" y="228" width="812" height="85">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Segoe UI, Inter, Arial, sans-serif;color:#E7EEFF;font-size:24px;line-height:1.55;text-align:center;font-weight:500;">
+      I design and build resilient backend systems, real-time platforms, and decentralized applications that power great user experiences. With 10+ years of backend engineering, I focus on clean architecture, scalability, and developer productivity.
+    </div>
+  </foreignObject>
+
+  <g font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" font-weight="600" fill="#ECF2FF">
+    <g>
+      <rect x="277" y="334" width="192" height="50" rx="14" fill="#FFFFFF" fill-opacity="0.06" stroke="#C8D8FF" stroke-opacity="0.26"/>
+      <text x="373" y="366" text-anchor="middle">Backend Engineering</text>
+    </g>
+    <g>
+      <rect x="485" y="334" width="178" height="50" rx="14" fill="#FFFFFF" fill-opacity="0.06" stroke="#C8D8FF" stroke-opacity="0.26"/>
+      <text x="574" y="366" text-anchor="middle">Scalable Systems</text>
+    </g>
+    <g>
+      <rect x="679" y="334" width="160" height="50" rx="14" fill="#FFFFFF" fill-opacity="0.06" stroke="#C8D8FF" stroke-opacity="0.26"/>
+      <text x="759" y="366" text-anchor="middle">Microservices</text>
+    </g>
+    <g>
+      <rect x="855" y="334" width="120" height="50" rx="14" fill="#FFFFFF" fill-opacity="0.06" stroke="#C8D8FF" stroke-opacity="0.26"/>
+      <text x="915" y="366" text-anchor="middle">Web3</text>
+    </g>
+    <g>
+      <rect x="300" y="398" width="182" height="50" rx="14" fill="#FFFFFF" fill-opacity="0.06" stroke="#C8D8FF" stroke-opacity="0.26"/>
+      <text x="391" y="430" text-anchor="middle">Crypto Payments</text>
+    </g>
+    <g>
+      <rect x="498" y="398" width="186" height="50" rx="14" fill="#FFFFFF" fill-opacity="0.06" stroke="#C8D8FF" stroke-opacity="0.26"/>
+      <text x="591" y="430" text-anchor="middle">Real-time Systems</text>
+    </g>
+    <g>
+      <rect x="700" y="398" width="170" height="50" rx="14" fill="#FFFFFF" fill-opacity="0.06" stroke="#C8D8FF" stroke-opacity="0.26"/>
+      <text x="785" y="430" text-anchor="middle">API Architecture</text>
+    </g>
+    <g>
+      <rect x="886" y="398" width="208" height="50" rx="14" fill="#FFFFFF" fill-opacity="0.06" stroke="#C8D8FF" stroke-opacity="0.26"/>
+      <text x="990" y="430" text-anchor="middle">AI Agent Workflows</text>
+    </g>
+  </g>
+</svg>
