@@ -5,7 +5,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1220,40:1E1B4B,100:6D5DF6&text=Nahid%20Barekati&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=Senior%20Backend%20Developer%20%7C%20Web3%20%7C%20Payments%20%7C%20Real-Time%20Systems&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0B1220,35:1E1B4B,100:6D5DF6&text=Nahid%20Barekati&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=Senior%20Backend%20Developer%20%7C%20Web3%20%7C%20Payments%20%7C%20Real-Time%20Systems&descAlignY=58&animation=fadeIn" width="100%" />
+
+<br />
 
 <p>
   <a href="https://www.nahidbarekati.ir"><img src="https://img.shields.io/badge/Website-nahidbarekati.ir-6D5DF6?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
@@ -13,7 +15,18 @@
   <a href="https://www.linkedin.com/in/nahid-barekati"><img src="https://img.shields.io/badge/LinkedIn-nahid--barekati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2800&pause=700&color=7C6DFF&center=true&vCenter=true&width=900&lines=Backend+Engineering+for+Real+Business+Needs;Scalable+APIs+%7C+Microservices+%7C+Clean+Architecture;Web3+Platforms+%7C+Crypto+Payments+%7C+NFT+Marketplaces;Order+Book+%7C+Matching+Engine+%7C+Real-Time+Systems;AI+Tools+%26+Agent+Workflows+for+Developer+Productivity" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=25&duration=2800&pause=700&color=7C6DFF&center=true&vCenter=true&width=950&lines=Backend+Engineering+for+Real+Business+Needs;Clean+Architecture+%7C+Scalable+APIs+%7C+Microservices;Web3+Platforms+%7C+Crypto+Payments+%7C+NFT+Marketplaces;Order+Book+%7C+Matching+Engine+%7C+Real-Time+Systems;AI+Tools+%26+Agent+Workflows+for+Developer+Productivity" />
+
+<br />
+
+<table>
+<tr>
+<td align="center" width="25%"><b>Backend Engineering</b><br /><sub>APIs, services, architecture</sub></td>
+<td align="center" width="25%"><b>Web3 & Payments</b><br /><sub>NFT, wallets, crypto flows</sub></td>
+<td align="center" width="25%"><b>Real-Time Systems</b><br /><sub>WebSocket, Redis, events</sub></td>
+<td align="center" width="25%"><b>AI Productivity</b><br /><sub>AI tools & agent workflows</sub></td>
+</tr>
+</table>
 
 </div>
 
@@ -27,7 +40,7 @@
 
 ### 🧩 Senior Backend Developer
 
-I design and build **practical, scalable backend systems** that are aligned with real business needs — not just code that works locally.
+I design and build **practical, scalable backend systems** aligned with real business needs — not just code that works locally.
 
 My experience includes **Web3 platforms**, **NFT marketplaces**, **crypto payment gateways**, **wallet integrations**, **real-time systems**, **online learning platforms**, and backend services that need to be reliable, maintainable, and ready to scale.
 
@@ -289,16 +302,29 @@ Built backend services for real-time reservation systems:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=nahidbarekati&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&custom_title=Nahid%20Barekati%27s%20GitHub%20Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidbarekati&layout=compact&theme=tokyonight&hide_border=true" />
+<table>
+<tr>
+<td width="50%" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nahidbarekati&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&custom_title=GitHub%20Overview" />
+</td>
+<td width="50%" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidbarekati&layout=compact&theme=tokyonight&hide_border=true&custom_title=Most%20Used%20Languages" />
+</td>
+</tr>
+</table>
 
-<br />
+<table>
+<tr>
+<td width="50%" align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nahidbarekati&theme=tokyonight&hide_border=true" />
+</td>
+<td width="50%" align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nahidbarekati&theme=tokyonight&utcOffset=3.5" />
+</td>
+</tr>
+</table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=nahidbarekati&theme=tokyonight&hide_border=true" />
-
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nahidbarekati&theme=tokyo-night&hide_border=true&area=true&custom_title=Nahid%20Barekati%27s%20Contribution%20Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nahidbarekati&theme=tokyo-night&hide_border=true&area=true&height=260&custom_title=Contribution%20Activity" width="100%" />
 
 </div>
 
