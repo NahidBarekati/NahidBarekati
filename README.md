@@ -263,7 +263,89 @@ const nahid = {
 
 ---
 
+---
+
 ## Currently Improving
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### System Design & Scale
+
+- High-traffic backend architecture
+- Distributed system patterns
+- API performance and reliability
+- Observability, logs, metrics, and tracing
+
+</td>
+<td width="50%" valign="top">
+
+### Web3, AI & Product Engineering
+
+- Web3 marketplace and trading systems
+- Crypto payment and wallet architecture
+- AI-assisted engineering workflows
+- Technical English for global collaboration
+
+</td>
+</tr>
+</table>
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+<table>
+<tr>
+<td width="25%" align="center">
+  <a href="https://www.nahidbarekati.ir">
+    <img src="https://img.shields.io/badge/Website-nahidbarekati.ir-0B1020?style=for-the-badge&logo=google-chrome&logoColor=60A5FA&labelColor=111827" alt="Website" />
+  </a>
+</td>
+<td width="25%" align="center">
+  <a href="mailto:nahidbarekati.ir@gmail.com">
+    <img src="https://img.shields.io/badge/Email-nahidbarekati.ir%40gmail.com-0B1020?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=111827" alt="Email" />
+  </a>
+</td>
+<td width="25%" align="center">
+  <a href="https://www.linkedin.com/in/nahid-barekati">
+    <img src="https://img.shields.io/badge/LinkedIn-nahid--barekati-0B1020?style=for-the-badge&logo=linkedin&logoColor=60A5FA&labelColor=111827" alt="LinkedIn" />
+  </a>
+</td>
+<td width="25%" align="center">
+  <a href="https://github.com/NahidBarekati">
+    <img src="https://img.shields.io/badge/GitHub-NahidBarekati-0B1020?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=111827" alt="GitHub" />
+  </a>
+</td>
+</tr>
+</table>
+
+<br />
+
+<table>
+<tr>
+<td align="center" width="100%">
+
+### Clean Code. Scalable Systems. Real Impact.
+
+I enjoy building backend systems that are stable, maintainable, and designed to support real product growth.
+
+`Backend Engineering` · `Clean Architecture` · `Web3` · `Payments` · `Real-Time Systems` · `AI Workflows`
+
+</td>
+</tr>
+</table>
+
+<br />
+
+<img src="./assets/footer-cta.svg" width="100%" alt="Animated Footer CTA" />
+
+</div>
+
+<!-- ## Currently Improving
 
 - Advanced system design for high-traffic backend platforms
 - Web3 marketplace, trading, and payment system architecture
@@ -287,4 +369,4 @@ const nahid = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:030712,45:0B1020,100:4F46E5" width="100%" alt="Footer" />
 
-</div>
+</div> -->
