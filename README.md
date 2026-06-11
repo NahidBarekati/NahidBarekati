@@ -1,64 +1,63 @@
-<!--
-  GitHub Profile README for Nahid Barekati
-  Copy this file into: nahidbarekati/nahidbarekati/README.md
--->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0B1220,35:1E1B4B,100:6D5DF6&text=Nahid%20Barekati&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=Senior%20Backend%20Developer%20%7C%20Web3%20%7C%20Payments%20%7C%20Real-Time%20Systems&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="./assets/profile-header.svg" width="100%" alt="Nahid Barekati | Senior Backend Developer" />
 
 <br />
 
-<p>
-  <a href="https://www.nahidbarekati.ir"><img src="https://img.shields.io/badge/Website-nahidbarekati.ir-6D5DF6?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="mailto:nahidbarekati.ir@gmail.com"><img src="https://img.shields.io/badge/Email-nahidbarekati.ir%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/nahid-barekati"><img src="https://img.shields.io/badge/LinkedIn-nahid--barekati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=25&duration=2800&pause=700&color=7C6DFF&center=true&vCenter=true&width=950&lines=Backend+Engineering+for+Real+Business+Needs;Clean+Architecture+%7C+Scalable+APIs+%7C+Microservices;Web3+Platforms+%7C+Crypto+Payments+%7C+NFT+Marketplaces;Order+Book+%7C+Matching+Engine+%7C+Real-Time+Systems;AI+Tools+%26+Agent+Workflows+for+Developer+Productivity" />
+<a href="https://www.nahidbarekati.ir"><img src="https://img.shields.io/badge/Website-nahidbarekati.ir-111827?style=for-the-badge&logo=google-chrome&logoColor=60A5FA" /></a>
+<a href="mailto:nahidbarekati.ir@gmail.com"><img src="https://img.shields.io/badge/Email-nahidbarekati.ir%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+<a href="https://www.linkedin.com/in/nahid-barekati"><img src="https://img.shields.io/badge/LinkedIn-nahid--barekati-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+<a href="https://github.com/NahidBarekati"><img src="https://img.shields.io/badge/GitHub-NahidBarekati-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br />
+<br />
 
-<table>
-<tr>
-<td align="center" width="25%"><b>Backend Engineering</b><br /><sub>APIs, services, architecture</sub></td>
-<td align="center" width="25%"><b>Web3 & Payments</b><br /><sub>NFT, wallets, crypto flows</sub></td>
-<td align="center" width="25%"><b>Real-Time Systems</b><br /><sub>WebSocket, Redis, events</sub></td>
-<td align="center" width="25%"><b>AI Productivity</b><br /><sub>AI tools & agent workflows</sub></td>
-</tr>
-</table>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2600&pause=800&color=60A5FA&center=true&vCenter=true&width=980&lines=Backend+Engineering+%7C+Clean+Architecture+%7C+Scalable+APIs;Web3+Platforms+%7C+Crypto+Payments+%7C+NFT+Marketplaces;Real-Time+Systems+%7C+Redis+%7C+WebSocket+%7C+Event-Driven+Flows;AI+Agent+Workflows+for+Developer+Productivity" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 👋 Hi, I’m Nahid Barekati
+## Professional Summary
+
+I am a **Senior Backend Developer** focused on designing and building reliable backend systems for real business products. My work is centered around **clean architecture**, **scalable APIs**, **Web3 platforms**, **crypto payment flows**, **NFT marketplaces**, and **real-time systems**.
+
+I care about codebases that are not only functional, but also **secure, maintainable, observable, and ready to scale** as products grow.
+
+---
+
+## Core Focus
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="50%" valign="top">
 
-### 🧩 Senior Backend Developer
+### Backend Engineering
+- API design and backend service development
+- Node.js, NestJS, Express.js, Laravel
+- RESTful APIs, authentication, authorization
+- Clean service boundaries and maintainable modules
 
-I design and build **practical, scalable backend systems** aligned with real business needs — not just code that works locally.
-
-My experience includes **Web3 platforms**, **NFT marketplaces**, **crypto payment gateways**, **wallet integrations**, **real-time systems**, **online learning platforms**, and backend services that need to be reliable, maintainable, and ready to scale.
-
-I care about **clean architecture**, **system stability**, **security**, **performance**, and building software that teams can actually maintain and grow.
+### Architecture & Scalability
+- Clean Architecture, DDD, SOLID
+- Hexagonal Architecture and Repository Pattern
+- Microservices and modular backend design
+- Redis caching, queues, events, and performance optimization
 
 </td>
-<td width="42%" valign="top">
+<td width="50%" valign="top">
 
-### 🎯 Focus Areas
+### Web3 & Payments
+- NFT marketplace backend flows
+- Wallet integrations and crypto payment gateways
+- Swap, order book, and matching engine concepts
+- Blockchain-related backend modules and integrations
 
-- Backend Engineering
-- Microservices & Scalable APIs
-- Clean Architecture / DDD / SOLID
-- Web3, NFT & Blockchain Systems
-- Crypto Payments & Wallet Flows
-- Real-Time Systems / WebSocket
-- Redis, PostgreSQL, Docker
-- AI Tools & Agent Workflows
+### Real-Time & AI Workflows
+- WebSocket, Socket.io, Redis Pub/Sub
+- Real-time notifications and event-driven systems
+- AI-assisted development workflows
+- Agent-based productivity tools for engineering teams
 
 </td>
 </tr>
@@ -66,91 +65,49 @@ I care about **clean architecture**, **system stability**, **security**, **perfo
 
 ---
 
-## 🧠 About Me
+## Technical Profile
 
 ```ts
 const nahid = {
   name: "Nahid Barekati",
-  pronouns: "She / Her",
   role: "Senior Backend Developer",
   location: "Shiraz, Iran — Open to Remote",
 
   coreStack: ["Node.js", "NestJS", "TypeScript", "Laravel", "PostgreSQL", "Redis"],
-  architecture: ["DDD", "Hexagonal", "Clean Architecture", "SOLID", "Microservices"],
+  architecture: ["Clean Architecture", "DDD", "Hexagonal", "SOLID", "Microservices"],
   domains: ["Web3", "NFT Marketplaces", "Crypto Payments", "Real-Time Systems"],
-  aiProductivity: ["ChatGPT", "Claude", "Cursor", "GitHub Copilot", "AI Agent Workflows"],
-
-  mindset: "Build systems that are scalable, secure, observable, and maintainable.",
+  values: ["Scalability", "Security", "Maintainability", "Observability"],
 };
 ```
 
 ---
 
-## 💎 Core Expertise
+## Featured Experience
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ Backend Engineering
-Designing clean, maintainable APIs and backend services using **Node.js**, **NestJS**, **Express**, **Laravel**, and modern backend patterns.
-
-### 🧱 Microservices & Scalability
-Building modular systems with clear boundaries, scalable APIs, service communication, Redis caching, queues, and deployment-ready structure.
-
-### 🧠 Architecture & Code Quality
-Working with **DDD**, **Hexagonal Architecture**, **Repository Pattern**, **SOLID**, **CQRS**, and maintainable service design.
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 Web3 & NFT Platforms
-Building backend flows for **NFT marketplaces**, wallet integrations, asset management, swap flows, on-chain operations, and marketplace modules.
-
-### 💳 Crypto Payments
-Designing secure payment gateway flows with real-time confirmations, webhook systems, multi-currency wallets, and blockchain integrations.
-
-### ⚡ Real-Time Systems
-Developing real-time features with **WebSocket**, **Socket.io**, **Redis**, event-driven flows, notifications, and interactive platforms.
-
-</td>
-</tr>
-</table>
-
----
-
-## 🏢 Featured Experience
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🟣 Nia Gallery — Web3 & NFT Platform  
+### Nia Gallery — Web3 & NFT Platform
 **Senior Backend Developer | 2024 — Present**
 
-Built backend systems for a Web3 art and NFT platform, including:
-
-- NFT marketplace flows for listing, bidding, buying, and asset transfer
-- Wallet integration and on-chain operation flows
-- Swap engine and blockchain-related backend modules
-- **Order Book** and **Matching Engine** flows for marketplace/trading operations
-- Backend services for users, assets, offers, analytics, and admin panels
+- Built backend flows for NFT listing, bidding, buying, and asset transfer
+- Developed wallet integration and blockchain-related backend modules
+- Worked on swap engine, order book, and matching engine flows
+- Built services for users, assets, offers, analytics, and admin operations
 
 `Laravel` `Next.js` `Web3.js` `PostgreSQL` `Redis` `Docker` `Order Book` `Matching Engine`
 
 </td>
 <td width="50%" valign="top">
 
-### 🔵 NovaPay — Crypto Payment Gateway  
+### NovaPay — Crypto Payment Gateway
 **Senior Backend Developer | 2023 — 2024**
 
-Designed and developed backend infrastructure for crypto payments:
-
-- Secure transaction flows and real-time payment confirmations
-- Multi-currency wallet support
-- Blockchain network and exchange API integrations
-- Webhook system and admin dashboard backend
-- Focus on stability, scalability, and security
+- Designed secure transaction and payment confirmation flows
+- Built multi-currency wallet support and webhook-based integrations
+- Integrated blockchain networks and exchange APIs
+- Focused on stability, security, and scalable backend infrastructure
 
 `NestJS` `TypeScript` `PostgreSQL` `Redis` `Docker` `AWS`
 
@@ -159,30 +116,26 @@ Designed and developed backend infrastructure for crypto payments:
 <tr>
 <td width="50%" valign="top">
 
-### 🟢 ZehnAfzar Academy — Online Learning Platform  
+### ZehnAfzar Academy — Online Learning Platform
 **Senior Backend Developer | 2022 — 2023**
 
-Developed backend services for an online learning platform:
-
-- Authentication, course enrollment, and progress tracking
-- Role-based access control for students, instructors, and admins
-- Real-time discussions and notifications using WebSocket and Redis
-- Scalable RESTful APIs for learning and admin modules
+- Developed authentication, course enrollment, and progress tracking modules
+- Implemented role-based access for students, instructors, and admins
+- Built real-time discussions and notifications using WebSocket and Redis
+- Delivered scalable APIs for learning and admin modules
 
 `NestJS` `TypeScript` `PostgreSQL` `Redis` `Docker` `GitLab CI`
 
 </td>
 <td width="50%" valign="top">
 
-### 🟠 Wolfins Limited — Blockchain & Game Platform  
+### Wolfins Limited — Blockchain & Game Platform
 **Senior Backend Developer | 2021 — 2022**
 
-Worked on blockchain and NFT-related projects:
-
-- NFT marketplace modules supporting ERC-721 / ERC-1155
-- Blockchain-based online game backend
-- Real-time multiplayer flows using Colyseus WebSocket server
-- Smart contract and Web3 integration flows
+- Built NFT marketplace modules supporting ERC-721 / ERC-1155 flows
+- Worked on blockchain-based game backend systems
+- Developed real-time multiplayer flows using Colyseus
+- Integrated smart contract and Web3-related backend features
 
 `Node.js` `TypeScript` `Colyseus` `Web3.js` `MongoDB` `Redis`
 
@@ -191,30 +144,26 @@ Worked on blockchain and NFT-related projects:
 <tr>
 <td width="50%" valign="top">
 
-### 🟡 Hami Pishgaman — Microservice Architecture  
+### Hami Pishgaman — Microservice Architecture
 **Backend Developer | 2020 — 2021**
 
-Contributed to backend systems with a microservice-oriented structure:
-
-- DDD and Hexagonal Architecture principles
-- Repository Pattern and clean service separation
-- Gitflow and CI/CD-based development workflow
-- Backend modules focused on maintainability and scalability
+- Contributed to backend systems with a microservice-oriented structure
+- Applied DDD, Hexagonal Architecture, and Repository Pattern
+- Worked with Gitflow and CI/CD-based development workflows
+- Focused on maintainable and scalable backend modules
 
 `PHP` `Laravel` `MySQL` `Redis` `Docker` `Gitflow`
 
 </td>
 <td width="50%" valign="top">
 
-### ⚫ RSEE — Real-Time Reservation System  
+### RSEE — Real-Time Reservation System
 **Backend Developer | 2018 — 2020**
 
-Built backend services for real-time reservation systems:
-
-- Express.js backend services and REST APIs
-- Redis caching and database indexing for performance
-- Docker and NGINX support for deployment
-- Backend optimization and real-time system support
+- Built backend services and REST APIs with Express.js
+- Improved performance with Redis caching and database indexing
+- Supported Docker and NGINX-based deployment workflows
+- Worked on real-time system reliability and optimization
 
 `Node.js` `Express.js` `PostgreSQL` `Redis` `Docker` `NGINX`
 
@@ -224,7 +173,7 @@ Built backend services for real-time reservation systems:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Backend & Languages
 <p>
@@ -263,34 +212,31 @@ Built backend services for real-time reservation systems:
   <img src="https://img.shields.io/badge/Claude-111827?style=for-the-badge&logo=anthropic&logoColor=D97757" />
   <img src="https://img.shields.io/badge/Cursor-111827?style=for-the-badge&logo=cursor&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Copilot-111827?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-111827?style=for-the-badge&logo=sparkles&logoColor=7C6DFF" />
   <img src="https://img.shields.io/badge/AI_Agent_Workflows-111827?style=for-the-badge&logo=stackblitz&logoColor=7C6DFF" />
 </p>
 
 ---
 
-## 🧭 Architecture Strengths
+## Engineering Strengths
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-- Clean Architecture & maintainable codebases
-- Domain-Driven Design / DDD
-- Hexagonal Architecture
-- SOLID principles
-- Repository Pattern
-- CQRS and Event-Driven thinking
+- Clean Architecture and maintainable codebases
+- Domain-Driven Design and service boundaries
+- API design, versioning, and documentation
+- Secure authentication and authorization flows
+- Database modeling and query optimization
 
 </td>
 <td width="50%" valign="top">
 
-- API design and versioning
-- Redis caching and performance optimization
-- WebSocket and real-time flows
-- Secure authentication and authorization flows
-- Observability mindset: logs, tracing, monitoring
+- Redis caching and performance improvement
+- WebSocket and real-time event flows
 - Docker-based deployment workflows
+- Observability mindset: logs, tracing, monitoring
+- Practical problem-solving for business-critical systems
 
 </td>
 </tr>
@@ -298,17 +244,17 @@ Built backend services for real-time reservation systems:
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Overview
 
 <div align="center">
 
 <table>
 <tr>
 <td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nahidbarekati&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&custom_title=GitHub%20Overview" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NahidBarekati&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&custom_title=GitHub%20Overview" />
 </td>
 <td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidbarekati&layout=compact&theme=tokyonight&hide_border=true&custom_title=Most%20Used%20Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahidBarekati&layout=compact&theme=tokyonight&hide_border=true&custom_title=Most%20Used%20Languages" />
 </td>
 </tr>
 </table>
@@ -316,50 +262,41 @@ Built backend services for real-time reservation systems:
 <table>
 <tr>
 <td width="50%" align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nahidbarekati&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NahidBarekati&theme=tokyonight&hide_border=true" />
 </td>
 <td width="50%" align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nahidbarekati&theme=tokyonight&utcOffset=3.5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NahidBarekati&theme=tokyonight&utcOffset=3.5" />
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nahidbarekati&theme=tokyo-night&hide_border=true&area=true&height=260&custom_title=Contribution%20Activity" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NahidBarekati&theme=tokyo-night&hide_border=true&area=true&height=260&custom_title=Contribution%20Activity" width="100%" />
 
 </div>
 
 ---
 
-## 🌱 Currently Improving
+## Currently Improving
 
 - Advanced system design and high-traffic backend architecture
-- Deeper Web3 marketplace and trading system patterns
+- Web3 marketplace, trading, and payment system patterns
 - Elasticsearch and real-time search / analytics systems
-- AI-assisted development workflows and agent-based productivity
-- English communication for technical interviews and global teams
+- AI-assisted engineering workflows and agent-based productivity
+- English communication for interviews and international teams
 
 ---
 
-## 🎯 Professional Goals
-
-- Build backend systems that are scalable, secure, and maintainable
-- Contribute to products with real business and user impact
-- Work on Web3, payment, marketplace, and real-time platforms
-- Keep improving system design, architecture, and engineering communication
-- Collaborate with international engineering teams and open-source communities
-
----
-
-## 📫 Let’s Connect
+## Let’s Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/nahid-barekati"><img src="https://img.shields.io/badge/LinkedIn-www.linkedin.com%2Fin%2Fnahid--barekati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:nahidbarekati.ir@gmail.com"><img src="https://img.shields.io/badge/Email-nahidbarekati.ir%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/nahidbarekati"><img src="https://img.shields.io/badge/GitHub-nahidbarekati-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/nahid-barekati"><img src="https://img.shields.io/badge/LinkedIn-nahid--barekati-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+<a href="mailto:nahidbarekati.ir@gmail.com"><img src="https://img.shields.io/badge/Email-nahidbarekati.ir%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+<a href="https://github.com/NahidBarekati"><img src="https://img.shields.io/badge/GitHub-NahidBarekati-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-<br /><br />
+<br />
+<br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0B1220,40:1E1B4B,100:6D5DF6" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:050B16,45:111D4A,100:4F46E5" width="100%" alt="Footer" />
 
 </div>

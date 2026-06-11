@@ -1,0 +1,139 @@
+<svg width="1672" height="941" viewBox="0 0 1672 941" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Nahid Barekati - Senior Backend Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1672" y2="941" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#050B16"/>
+      <stop offset="0.45" stop-color="#071122"/>
+      <stop offset="1" stop-color="#111D4A"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1350 260) rotate(120) scale(600 420)">
+      <stop offset="0" stop-color="#2563EB" stop-opacity="0.55"/>
+      <stop offset="0.45" stop-color="#4F46E5" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#050B16" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="170" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#C084FC"/>
+    </linearGradient>
+    <linearGradient id="cubeLine" x1="1000" y1="200" x2="1600" y2="750" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="0.5" stop-color="#60A5FA"/>
+      <stop offset="1" stop-color="#C084FC"/>
+    </linearGradient>
+    <filter id="softGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.22 0 0 0 0 0.54 0 0 0 0 1 0 0 0 0.8 0" result="color"/>
+      <feMerge><feMergeNode in="color"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="textShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="6" stdDeviation="7" flood-color="#000000" flood-opacity="0.38"/>
+    </filter>
+    <style>
+      .font { font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 126px; font-weight: 850; letter-spacing: -4px; fill: #F8FAFC; }
+      .subtitle { font-size: 52px; font-weight: 750; fill: #5B7CFA; }
+      .body { font-size: 32px; font-weight: 400; fill: #E5E7EB; opacity: .95; }
+      .badgeText { font-size: 25px; font-weight: 550; fill: #F8FAFC; }
+      .badge { fill: rgba(5, 11, 22, 0.42); stroke: url(#cubeLine); stroke-width: 1.4; }
+      .cube { stroke: url(#cubeLine); stroke-width: 2; fill: rgba(37, 99, 235, 0.055); filter: url(#softGlow); stroke-linejoin: round; }
+      .cubeThin { stroke: #60A5FA; stroke-width: 1; opacity: .28; fill: none; }
+      .dash { stroke: #60A5FA; stroke-width: 1.2; opacity: .45; stroke-dasharray: 8 12; }
+      .streak { stroke: url(#cubeLine); stroke-width: 2; opacity: .55; stroke-linecap: round; }
+      .dot { fill: #60A5FA; opacity: .55; }
+      .pulse { animation: pulse 3.8s ease-in-out infinite; transform-origin: center; }
+      .pulse2 { animation: pulse 4.8s ease-in-out infinite .8s; transform-origin: center; }
+      .float { animation: float 6s ease-in-out infinite; }
+      .float2 { animation: float2 7.5s ease-in-out infinite; }
+      .draw { stroke-dasharray: 1100; stroke-dashoffset: 1100; animation: draw 5.5s ease-in-out infinite; }
+      .slide { stroke-dasharray: 150 360; animation: slide 4.4s linear infinite; }
+      .spark { animation: spark 2.7s ease-in-out infinite; }
+      .spark2 { animation: spark 3.3s ease-in-out infinite .9s; }
+      @keyframes pulse { 0%,100% { opacity:.48; } 50% { opacity:1; } }
+      @keyframes float { 0%,100% { transform: translateY(0px); } 50% { transform: translateY(-10px); } }
+      @keyframes float2 { 0%,100% { transform: translateY(0px) translateX(0px); } 50% { transform: translateY(8px) translateX(-8px); } }
+      @keyframes draw { 0% { stroke-dashoffset: 1100; opacity:.2;} 45% { stroke-dashoffset: 0; opacity:.85;} 100% { stroke-dashoffset: -1100; opacity:.2;} }
+      @keyframes slide { from { stroke-dashoffset: 0; } to { stroke-dashoffset: -510; } }
+      @keyframes spark { 0%,100% { opacity:.25; r:2.5; } 50% { opacity:1; r:5.5; } }
+    </style>
+  </defs>
+
+  <rect width="1672" height="941" rx="0" fill="url(#bg)"/>
+  <rect width="1672" height="941" fill="url(#glow)"/>
+  <rect x="22" y="24" width="1628" height="893" rx="8" stroke="#60A5FA" stroke-opacity="0.45" stroke-width="1.25"/>
+
+  <g opacity="0.75">
+    <g transform="translate(60 70)">
+      <circle class="dot" cx="0" cy="0" r="2.4"/><circle class="dot" cx="26" cy="0" r="2.4"/><circle class="dot" cx="52" cy="0" r="2.4"/><circle class="dot" cx="78" cy="0" r="2.4"/><circle class="dot" cx="104" cy="0" r="2.4"/><circle class="dot" cx="130" cy="0" r="2.4"/>
+      <circle class="dot" cx="0" cy="28" r="2.4"/><circle class="dot" cx="26" cy="28" r="2.4"/><circle class="dot" cx="52" cy="28" r="2.4"/><circle class="dot" cx="78" cy="28" r="2.4"/><circle class="dot" cx="104" cy="28" r="2.4"/><circle class="dot" cx="130" cy="28" r="2.4"/>
+      <circle class="dot" cx="0" cy="56" r="2.4"/><circle class="dot" cx="26" cy="56" r="2.4"/><circle class="dot" cx="52" cy="56" r="2.4"/><circle class="dot" cx="78" cy="56" r="2.4"/><circle class="dot" cx="104" cy="56" r="2.4"/><circle class="dot" cx="130" cy="56" r="2.4"/>
+      <circle class="dot" cx="0" cy="84" r="2.4"/><circle class="dot" cx="26" cy="84" r="2.4"/><circle class="dot" cx="52" cy="84" r="2.4"/><circle class="dot" cx="78" cy="84" r="2.4"/><circle class="dot" cx="104" cy="84" r="2.4"/>
+    </g>
+    <g transform="translate(60 760)">
+      <circle class="dot" cx="0" cy="0" r="2.4"/><circle class="dot" cx="26" cy="0" r="2.4"/><circle class="dot" cx="52" cy="0" r="2.4"/><circle class="dot" cx="78" cy="0" r="2.4"/><circle class="dot" cx="104" cy="0" r="2.4"/><circle class="dot" cx="130" cy="0" r="2.4"/>
+      <circle class="dot" cx="0" cy="28" r="2.4"/><circle class="dot" cx="26" cy="28" r="2.4"/><circle class="dot" cx="52" cy="28" r="2.4"/><circle class="dot" cx="78" cy="28" r="2.4"/><circle class="dot" cx="104" cy="28" r="2.4"/><circle class="dot" cx="130" cy="28" r="2.4"/>
+      <circle class="dot" cx="0" cy="56" r="2.4"/><circle class="dot" cx="26" cy="56" r="2.4"/><circle class="dot" cx="52" cy="56" r="2.4"/><circle class="dot" cx="78" cy="56" r="2.4"/><circle class="dot" cx="104" cy="56" r="2.4"/><circle class="dot" cx="130" cy="56" r="2.4"/>
+    </g>
+  </g>
+
+  <g class="font" filter="url(#textShadow)">
+    <text class="title" x="155" y="296">Nahid Barekati</text>
+    <text class="subtitle" x="155" y="378">Senior Backend Developer</text>
+    <rect x="155" y="410" width="170" height="5" rx="2.5" fill="url(#accent)"/>
+    <text class="body" x="155" y="474">I design and build resilient backend systems, real-time platforms, and</text>
+    <text class="body" x="155" y="522">decentralized applications that power great user experiences.</text>
+  </g>
+
+  <g class="font">
+    <g transform="translate(155 590)">
+      <rect class="badge" width="318" height="74" rx="8"/><text class="badgeText" x="74" y="47">Backend Engineering</text><path d="M29 31 L51 19 L73 31 L51 43 Z M29 42 L51 54 L73 42 M29 54 L51 66 L73 54" stroke="#60A5FA" stroke-width="3" fill="none"/>
+    </g>
+    <g transform="translate(490 590)">
+      <rect class="badge" width="288" height="74" rx="8"/><text class="badgeText" x="74" y="47">Scalable Systems</text><path d="M28 55 H72 M35 55 V40 M48 55 V31 M61 55 V24 M35 40 L48 31 L61 24" stroke="#60A5FA" stroke-width="3" fill="none"/>
+    </g>
+    <g transform="translate(795 590)">
+      <rect class="badge" width="282" height="74" rx="8"/><text class="badgeText" x="74" y="47">Microservices</text><path d="M51 20 L70 31 V53 L51 64 L32 53 V31 Z M51 20 V42 M32 31 L51 42 L70 31 M51 42 V64" stroke="#7C8CFF" stroke-width="3" fill="none"/>
+    </g>
+    <g transform="translate(1095 590)">
+      <rect class="badge" width="162" height="74" rx="8"/><text class="badgeText" x="74" y="47">Web3</text><path d="M51 20 L70 31 V53 L51 64 L32 53 V31 Z M39 37 H63 M51 26 V58" stroke="#A78BFA" stroke-width="3" fill="none"/>
+    </g>
+    <g transform="translate(155 684)">
+      <rect class="badge" width="306" height="74" rx="8"/><text class="badgeText" x="74" y="47">Real-time Systems</text><path d="M56 18 L35 48 H53 L45 68 L70 35 H52 Z" stroke="#60A5FA" stroke-width="3" fill="none"/>
+    </g>
+    <g transform="translate(478 684)">
+      <rect class="badge" width="288" height="74" rx="8"/><text class="badgeText" x="74" y="47">API Architecture</text><path d="M35 29 L25 42 L35 55 M67 29 L77 42 L67 55 M47 58 L56 26" stroke="#60A5FA" stroke-width="3" fill="none"/>
+    </g>
+    <g transform="translate(783 684)">
+      <rect class="badge" width="321" height="74" rx="8"/><text class="badgeText" x="74" y="47">AI Agent Workflows</text><path d="M51 22 C39 22 35 32 39 41 C31 45 32 58 44 60 C47 69 60 69 63 60 C75 58 76 45 68 41 C72 32 63 22 51 22 Z M51 22 V66 M39 41 H63 M44 60 H58" stroke="#7C8CFF" stroke-width="3" fill="none"/>
+    </g>
+  </g>
+
+  <g transform="translate(1045 220)">
+    <path class="streak slide" d="M120 115 C270 10 430 -20 590 -95"/>
+    <path class="streak slide" d="M80 255 C250 145 450 95 645 -30" style="animation-delay: .6s"/>
+    <path class="streak slide" d="M135 485 C300 370 455 290 640 195" style="animation-delay: 1.2s"/>
+    <path class="dash" d="M235 70 L615 -80"/>
+    <path class="dash" d="M180 390 L640 130"/>
+
+    <g class="float">
+      <path class="cube draw" d="M230 145 L330 90 L430 145 L330 202 Z M230 145 V265 L330 325 L430 265 V145 M330 202 V325"/>
+      <path class="cubeThin" d="M260 162 L330 122 L400 162 M260 195 L330 236 L400 195"/>
+    </g>
+    <g class="float2">
+      <path class="cube draw" d="M420 85 L530 25 L640 85 L530 148 Z M420 85 V215 L530 280 L640 215 V85 M530 148 V280" style="animation-delay:.45s"/>
+      <path class="cubeThin" d="M456 106 L530 66 L604 106 M456 150 L530 193 L604 150"/>
+    </g>
+    <g class="float">
+      <path class="cube draw" d="M575 245 L690 180 L805 245 L690 312 Z M575 245 V375 L690 443 L805 375 V245 M690 312 V443" style="animation-delay:.9s"/>
+      <path class="cubeThin" d="M612 265 L690 222 L768 265 M612 315 L690 360 L768 315"/>
+    </g>
+    <g class="float2" opacity="0.78">
+      <path class="cube draw" d="M735 120 L840 62 L945 120 L840 180 Z M735 120 V240 L840 303 L945 240 V120 M840 180 V303" style="animation-delay:1.25s"/>
+    </g>
+    <g filter="url(#softGlow)">
+      <circle class="spark" cx="330" cy="202" r="4" fill="#60A5FA"/>
+      <circle class="spark2" cx="530" cy="148" r="4" fill="#C084FC"/>
+      <circle class="spark" cx="690" cy="312" r="4" fill="#60A5FA" style="animation-delay:1s"/>
+      <circle class="spark2" cx="840" cy="180" r="4" fill="#7DD3FC"/>
+      <circle class="spark" cx="520" cy="25" r="3" fill="#60A5FA" style="animation-delay:.45s"/>
+    </g>
+  </g>
+</svg>
